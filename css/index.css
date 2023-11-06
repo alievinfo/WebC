@@ -1,0 +1,26 @@
+.ads-block .ads-01 {
+    border: solid 1px #000000;
+    background-color: #fde200;
+    border-radius: 8px;
+    margin: 5px 7px 5px 27px  ;
+    padding: 0px 23px 3px 17px;
+    height: 22px;
+
+}
+/* .ads-block .ads-02{
+    border: solid 1px #000000;
+    background-color: #FFB501;
+    border-radius: 7px;
+    margin-left: 2px;
+    padding: 0px 10px 3px 10px;
+
+} */
+.ads-block{
+    height: 32px;
+    display: flex;
+    flex-direction: column;
+    padding:5px 5px 5px 5px ;
+    font-size: 14px;
+    font-weight: 520;
+  
+}
